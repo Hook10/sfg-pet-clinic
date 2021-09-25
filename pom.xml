@@ -53,7 +53,9 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/Hook10/sfg-pet-clinic.git</developerConnection>
+        <url>https://github.com/Hook10/sfg-pet-clinic.git</url>
+        <connection>scm:git:https://github.com/Hook10/sfg-pet-clinic.git</connection>
+<!--        <developerConnection>scm:git:https://github.com/Hook10/sfg-pet-clinic.git</developerConnection>-->
       <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
